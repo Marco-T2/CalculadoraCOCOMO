@@ -1,0 +1,11 @@
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\bin\Debug\CalculadoraCOCOMO.exe.config
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\bin\Debug\CalculadoraCOCOMO.exe
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\bin\Debug\CalculadoraCOCOMO.pdb
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\obj\Debug\CalculadoraCOCOMO.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\obj\Debug\CalculadoraCOCOMO.Properties.Resources.resources
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\obj\Debug\CalculadoraCOCOMO.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\obj\Debug\CalculadoraCOCOMO.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\obj\Debug\CalculadoraCOCOMO.exe
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\obj\Debug\CalculadoraCOCOMO.pdb
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\obj\Debug\CalculadoraCOCOMO.Carga.resources
+C:\Users\marco\source\repos\CalculadoraCOCOMO\CalculadoraCOCOMO\obj\Debug\CalculadoraCOCOMO.calculadora.resources
